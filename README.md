@@ -34,3 +34,14 @@ Install the required libraries:
 
 ```bash
 pip install requests beautifulsoup4 pandas openpyxl
+```
+
+Run the Jupyter Notebook:
+
+```bash
+jupyter notebook web_scraping.ipynb
+```
+
+## Project Goal
+
+The goal of this project is to automate product data extraction and prepare structured files that can be used for analysis, reporting, or price comparison.
